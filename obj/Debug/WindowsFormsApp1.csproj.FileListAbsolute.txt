@@ -1,0 +1,88 @@
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoja.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoja.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+F:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoja.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoja.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Coisas do pendrive novo\DDS\Trabalho para 18-05-2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLoja.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nicolas\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
